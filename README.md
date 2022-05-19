@@ -27,6 +27,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sprawdzany&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sprawdzany/github-readme-stats)
 
+### Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tvblhtpc8jhzt4wbwk4q93zrh&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
